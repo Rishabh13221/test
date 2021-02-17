@@ -1,0 +1,47 @@
+[
+    {
+        "emp_id": "198761",
+        "emp_Name": "Ravi Shastri",
+        "project_id": "34",
+        "skills": "JAVA",
+        "experience": "7.5",
+        "deputed": "offsite",
+        "location": "Mumbai"
+    },
+    {
+        "emp_id": "1983461",
+        "emp_Name": "Sham Talwarkar",
+        "project_id": "31",
+        "skills": "ANGULAR",
+        "experience": "3.5",
+        "deputed": "offsite",
+        "location": "Mumbai"
+    },
+    {
+        "emp_id": "1435321",
+        "emp_Name": "Venkatraman Thalastha",
+        "project_id": "12",
+        "skills": "SAP",
+        "experience": "2.1",
+        "deputed": "Onsite",
+        "location": "London"
+    },
+    {
+        "emp_id": "1984321",
+        "emp_Name": "Shiv Kadam",
+        "project_id": "897",
+        "skills": "Vue.js",
+        "experience": "1.5",
+        "deputed": "offsite",
+        "location": "Delhi"
+    },
+    {
+        "emp_id": "34591",
+        "emp_Name": "Meghna Dubey",
+        "project_id": "45",
+        "skills": "Big Data",
+        "experience": "6.7",
+        "deputed": "offsite",
+        "location": "Kolkata"
+    }
+]
